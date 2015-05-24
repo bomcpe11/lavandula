@@ -1,4 +1,4 @@
-yii.gii = (function ($) {
+yii.gii = (function ($) { 
     var isActive = $('.default-view').length > 0;
 
     var initHintBlocks = function () {
